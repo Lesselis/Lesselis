@@ -1,16 +1,22 @@
-## Hi there 👋
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos e contribuições.
 
-<!--
-**Lesselis/Lesselis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Javascript, SQL, JAVA e Cloud Computing**
+- 👯 Estou procurando colaborar em **desenvolvimento frontend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- JavaScript
+- HTML
+- CSS
+- JAVA
+- SQL
+- Node.js
+- Angular
+- Docker
+- Git
+
+## 🌐 Conecte-se Comigo
+
+https://br.linkedin.com/in/thomaslesselis
