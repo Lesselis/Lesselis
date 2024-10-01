@@ -7,16 +7,16 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 
 ## 🛠️ Tecnologias e Ferramentas
 
-!JavaScript
-!HTML
-!CSS
-!JAVA
-!SQL
-!Node.js
-!Angular
-!Docker
-!Git
+JavaScript
+HTML
+CSS
+JAVA
+SQL
+Node.js
+Angular
+Docker
+Git
 
 ## 🌐 Conecte-se Comigo
 
-!https://br.linkedin.com/in/thomaslesselis
+https://br.linkedin.com/in/thomaslesselis
