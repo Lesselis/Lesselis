@@ -1,21 +1,27 @@
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos e contribuições.
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação, com interesse em explorar diversas áreas do desenvolvimento de software. Aqui você encontrará alguns dos meus projetos e contribuições.
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **Javascript, SQL, JAVA e Cloud Computing**
-- 👯 Estou procurando colaborar em **desenvolvimento frontend**
+- 🌱 Desenvolvedor com interesse em soluções **full-stack**
+- 👯 Aberto a colaboraçoes em projetos inovadores.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - JavaScript
+- Typescript
 - HTML
 - CSS
 - JAVA
-- SQL
+- SQL (PostgreSQL, MySQL)
+- Banco de dados NoSQL (MongoDB)
 - Node.js
 - Angular
-- Docker
+- Contêineres e Orquestração (Docker, Rancher, Kubernetes)
+- CI/CD (Jenkins)
+- Mensageria (Kafka, RabbitMQ)
+- API (Postman, Swagger)
 - Git
+- Cloud Computing (AWS, Azure)
 
 ## 🌐 Conecte-se Comigo
 
